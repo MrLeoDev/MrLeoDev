@@ -65,9 +65,23 @@ I'm also comfortable working independently: investigating an issue, discussing t
 
 ## 🚀 Featured projects
 
-I'm currently building this account as my personal development space. Selected personal projects and experiments will appear here as I migrate, review and clean them up.
+### 🚗 Car Rental Management — CFC Final Project
 
-> This section will evolve progressively as the repositories I want to showcase are transferred to this account.
+**Laravel 10 · PHP 8.1 · Tailwind CSS · DaisyUI · Pest**
+
+My final Swiss CFC application-development project, delivered in 2023: a complete car-rental management platform covering user roles, fleet management, reservations, dynamic pricing, an operational dashboard, multilingual UI and functional tests.
+
+The original Laravel source is preserved as submitted, while a separate GitHub Pages experience lets visitors explore the project without installing it.
+
+<p>
+  <a href="https://github.com/MrLeoDev/TPI"><strong>📦 Repository</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://mrleodev.github.io/TPI/"><strong>🌐 Project showcase</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://mrleodev.github.io/TPI/demo/"><strong>🖥️ Interactive app demo</strong></a>
+</p>
+
+> The interactive demo is a static reconstruction based on the original Blade views and uses demo data only — the original 2023 backend remains untouched.
 
 ---
 
@@ -116,11 +130,25 @@ J'accorde de l'importance à un code qui résout le vrai problème sans devenir 
 
 Je suis également à l'aise avec le travail autonome : analyser un problème, échanger sur le besoin fonctionnel, concevoir l'implémentation, la tester et la suivre jusqu'à sa finalisation.
 
-## 🚀 Projets mis en avant
+## 🚀 Projet mis en avant
 
-Je construis actuellement ce compte comme mon espace de développement personnel. J'y ajouterai progressivement une sélection de projets personnels et d'expérimentations, au fur et à mesure de leur migration, de leur revue et de leur remise au propre.
+### 🚗 Gestion de location de voitures — TPI de fin de CFC
 
-> Cette section évoluera progressivement à mesure que je transfère les repositories que je souhaite présenter.
+**Laravel 10 · PHP 8.1 · Tailwind CSS · DaisyUI · Pest**
+
+Mon TPI réalisé en 2023 pour l'obtention de mon CFC de développeur d'applications : une application complète de gestion d'une société de location de voitures avec rôles utilisateurs, flotte, réservations, calcul dynamique des prix, tableau de bord, interface multilingue et tests fonctionnels.
+
+Le code Laravel original est conservé dans son état de remise, tandis qu'une présentation GitHub Pages séparée permet de découvrir le projet sans devoir l'installer.
+
+<p>
+  <a href="https://github.com/MrLeoDev/TPI"><strong>📦 Repository</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://mrleodev.github.io/TPI/"><strong>🌐 Présentation du projet</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://mrleodev.github.io/TPI/demo/"><strong>🖥️ Démo interactive</strong></a>
+</p>
+
+> La démo est une reconstruction statique basée sur les vues Blade originales et utilise uniquement des données fictives ; le backend original de 2023 reste inchangé.
 
 </details>
 
