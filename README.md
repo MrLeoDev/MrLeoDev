@@ -2,13 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6E40C9,35:B026FF,70:FF3CAC,100:7B2CBF&text=Leonel%20Borges%20Pereira&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20Backend%20%C2%B7%20PHP%20%2F%20Laravel&descAlignY=58&descSize=18" alt="Leonel Borges Pereira — Software Developer" />
 </p>
 
-<h1 align="center">Hi, I'm Leonel 👋</h1>
-
-<p align="center">
-  <strong>Software Developer · Backend · PHP / Laravel</strong><br>
-  Building maintainable business applications, data-heavy workflows and practical tools.
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
