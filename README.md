@@ -14,6 +14,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
+<p align="center">
+  🇬🇧 English · 🇫🇷 Français disponible plus bas
+</p>
+
 ## About me
 
 I'm a software developer focused on turning complex business rules into reliable, understandable applications.
@@ -52,6 +56,54 @@ I'm also comfortable working independently: investigating an issue, discussing t
 ## Projects
 
 I'm currently building this account as my personal development space. Selected personal projects and experiments will be added here as I migrate and clean them up.
+
+---
+
+<details>
+<summary><strong>🇫🇷 Lire la version française</strong></summary>
+
+<br>
+
+## À propos de moi
+
+Je suis développeur logiciel, avec un intérêt particulier pour la transformation de règles métier complexes en applications fiables, compréhensibles et maintenables.
+
+PHP et Laravel sont aujourd'hui les technologies avec lesquelles je travaille le plus, mais je ne me définis pas par un seul langage. Ce qui m'intéresse avant tout, c'est de comprendre un besoin, concevoir la bonne solution et la mener de l'analyse jusqu'à sa réalisation.
+
+J'apprécie particulièrement les sujets autour de :
+
+- 🧩 La logique métier complexe et les règles de domaine
+- 🗃️ La modélisation de données, SQL et les traitements orientés données
+- 🔌 Les API et les intégrations entre systèmes
+- ⚙️ L'architecture backend et la conception d'applications maintenables
+- 🧪 Le debug, les tests et l'amélioration de systèmes existants
+- 🚀 La prise en charge d'une fonctionnalité de l'analyse du besoin jusqu'à une implémentation prête pour la production
+
+## Technologies que j'utilise
+
+**Backend**  
+`PHP` · `Laravel` · `REST APIs`
+
+**Frontend**  
+`Vue.js` · `JavaScript` · `Tailwind CSS`
+
+**Données**  
+`PostgreSQL` · `Microsoft SQL Server`
+
+**Outils**  
+`Docker` · `Git` · `GitHub` · `Vite`
+
+## Ma façon de travailler
+
+J'accorde de l'importance à un code qui résout le vrai problème sans devenir inutilement complexe. J'aime comprendre le contexte métier derrière une fonctionnalité, clarifier ou remettre en question un besoin lorsqu'il est ambigu, et garder des solutions lisibles pour les développeurs qui devront les reprendre ensuite.
+
+Je suis également à l'aise avec le travail autonome : analyser un problème, échanger sur le besoin fonctionnel, concevoir l'implémentation, la tester et la suivre jusqu'à sa finalisation.
+
+## Projets
+
+Je construis actuellement ce compte comme mon espace de développement personnel. J'y ajouterai progressivement une sélection de projets personnels et d'expérimentations, au fur et à mesure de leur migration et de leur remise au propre.
+
+</details>
 
 ---
 
